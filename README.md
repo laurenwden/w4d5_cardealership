@@ -35,7 +35,7 @@ We exported the ERD into PostgreSQL to create the tables(created a new server) a
 
 From there we were able to create another query for the values where we worked together on what values we needed to create first.
 
-# Add/Alter's
+## Add/Alter's
 
 We altered several tables to add columns that we forgot to include when creating entities in Lucidchart. We added amount columns into the invoice and car_servicing columns as well as a column in car_servicing to identify service types. 
 
